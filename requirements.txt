@@ -3,6 +3,8 @@ matplotlib
 pandas
 seaborn
 ipykernel
+scipy
+scikit-learn
 
 # Data set access
 ucimlrepo
