@@ -1,0 +1,4 @@
+# This includes all of the needed modules for this project
+matplotlib
+pandas
+seaborn
