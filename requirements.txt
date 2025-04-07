@@ -2,3 +2,7 @@
 matplotlib
 pandas
 seaborn
+ipykernel
+
+# Data set access
+ucimlrepo
