@@ -13,7 +13,7 @@ This project focuses on predicting whether a banknote is genuine or forged using
 - **class**: Binary target variable (0 for genuine, 1 for forged)
 
 ## Table of Contents
-
+- [Project Setup](#project-setup)
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Usage](#usage)
@@ -22,6 +22,26 @@ This project focuses on predicting whether a banknote is genuine or forged using
 - [Challenges Faced](#challenges-faced)
 - [Future Additions](#future-additions)
 - [Reflection](#reflection)
+
+## Project Setup
+- Step 1: Create Repository 
+- Step 2: Create Virtual Environment (Windows)
+```bash
+# Windows
+py -m venv .venv
+.venv/Scripts/Acitvate
+
+# Mac/Linux
+python3 -m venv .venv
+source .venv/bin/activate
+```
+- Step 3: Git add, clone, and commit 
+```bash
+git add .
+git clone "repositoryurl"
+git commit -m "Update"
+git push origin main
+```
 
 ## Installation
 
