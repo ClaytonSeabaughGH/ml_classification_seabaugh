@@ -5,11 +5,12 @@
 
 This project focuses on predicting whether a banknote is genuine or forged using machine learning models. The dataset includes features extracted from images of banknotes, such as the variance, skewness, and the interaction between variance and skewness. Various machine learning models, including **Logistic Regression** and **Decision Tree Classifier**, are used to evaluate the performance of different feature sets for binary classification.
 
-## Features
+## Analyzed Features
 
 - **variance**: Wavelet image variance
 - **skewness**: Skewness of the image wavelet distribution
 - **var_skew_interaction**: Interaction term between variance and skewness
+- **class**: Binary target variable (0 for genuine, 1 for forged)
 
 ## Table of Contents
 
@@ -33,6 +34,7 @@ To run this project, you need the following dependencies:
   - `numpy`
   - `matplotlib`
   - `seaborn`
+  - `os`
   - `scikit-learn`
 
 You can install the required libraries by running:
