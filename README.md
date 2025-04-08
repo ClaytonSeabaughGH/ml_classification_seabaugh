@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used in this project is a collection of features extracted from images of genuine and forged banknotes. Each row represents a single banknote, with various features describing its image properties.
+The dataset used in this project is a collection of features extracted from images of genuine and forged banknotes. Each row represents a single banknote, with various features describing its image properties. Here is a link for the original data. [Link](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
 
 ### Columns:
 - **variance**: Wavelet image variance
