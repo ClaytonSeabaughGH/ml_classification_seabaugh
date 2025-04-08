@@ -25,7 +25,7 @@ This project focuses on predicting whether a banknote is genuine or forged using
 
 ## Project Setup
 - Step 1: Create Repository 
-- Step 2: Create Virtual Environment (Windows)
+- Step 2: Create Virtual Environment 
 ```bash
 # Windows
 py -m venv .venv
