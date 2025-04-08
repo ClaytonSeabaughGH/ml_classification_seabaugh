@@ -48,6 +48,8 @@ The dataset used in this project is a collection of features extracted from imag
 ### Columns:
 - **variance**: Wavelet image variance
 - **skewness**: Skewness of the image wavelet distribution
+- **curtosis**: curtosis of the image 
+- **entropy**: entropy of the image
 - **var_skew_interaction**: Interaction term between variance and skewness
 - **class**: Binary target variable (0 for genuine, 1 for forged)
 
