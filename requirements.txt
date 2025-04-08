@@ -5,6 +5,7 @@ seaborn
 ipykernel
 scipy
 scikit-learn
+os 
 
 # Data set access
 ucimlrepo
